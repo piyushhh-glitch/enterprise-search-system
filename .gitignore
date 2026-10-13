@@ -1,0 +1,15 @@
+# Downloaded benchmark dataset
+EnterpriseRAG-Bench/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Generated data and indexes
+data/processed/
+data/indexes/
